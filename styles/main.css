@@ -1,0 +1,20 @@
+.Estilo3 {font-size: 10px;}
+            #Layer1 {
+            position:absolute;
+            left:547px;
+          	top:318px;
+          	width:145px;
+            height:46px;
+          	z-index:1;
+            }
+
+            .Estilo26 {
+            font-size: 36px;
+            font-weight: bold;
+            color: #000000;
+            }
+
+            .Estilo27 {
+            font-size: 24px;
+            font-weight: bold;
+            }
